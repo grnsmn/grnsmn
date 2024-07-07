@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### <div align="center">I'm Simone, a full-time front-end developer 👨‍💻 working in CreationDose since 2022 🚀</div>  
+### <div align="center">I'm Simone, a full-time front-end developer 👨‍💻 working in [CreationDose](https://github.com/CreationDose) since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Vidoser](https://vidoser.com/it/)  
