@@ -1,4 +1,4 @@
-## Hi there 👋
+## <div align="center"> Hi there, i'm [Simone Guarnuccio](https://simoneguarnuccio.vercel.app/) 👋 </div>  
 
 <!--
 **grnsmn/grnsmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-### <div align="center">I'm Simone, a full-time front-end developer 👨‍💻 working in [CreationDose](https://github.com/CreationDose) since 2022 🚀</div>  
+### <div align="center"> Full-time front-end developer 👨‍💻 working in [CreationDose](https://github.com/CreationDose) 🚀</div>  
+#### <div align="center"> I'm a curious creative, tech geek and music enthusiast.Since adolescence I have always found myself in front of a computer looking for problems to solve them and as music became more and more digital I realized that the two things absorbed my entire interest and one accompanied the other. In the meantime I undertook training based on technical practicality in a professional technical institute and obtained an electronics technician diploma.During my university career I chose to immerse myself in the abstract studies of computer science and I applied all my energy to becoming fascinated by the algorithms and IT tools that digitize and process sound, and while this fascination increased, while still graduating I began a career path as a smartphone repair technician at SOSPhone Catania. This gives me the opportunity to discover the world of work more closely, always stimulating me with new challenges that have made me appreciate co-working more and more, clear communication, the power of thinking outside the box in real life and no longer only didactically. Since 2020 I have been getting closer and closer to the world of mobile app developments, starting from implementing apps capable of providing useful digital solutions to small problems in my work and hobby world. Since then, the front end developer is the figure I've been aspiring to.
+</div>  
   
 
 - 🔭 I’m currently working on [Vidoser](https://vidoser.com/it/)  
