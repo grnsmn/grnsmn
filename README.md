@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,12 +16,19 @@ Here are some ideas to get you started:
 
 
 ### <div align="center"> Full-time front-end developer 👨‍💻 working in [CreationDose](https://github.com/CreationDose) 🚀</div>  
-#### <div align="center"> I'm a curious creative, tech geek and music enthusiast.Since adolescence I have always found myself in front of a computer looking for problems to solve them and as music became more and more digital I realized that the two things absorbed my entire interest and one accompanied the other. In the meantime I undertook training based on technical practicality in a professional technical institute and obtained an electronics technician diploma.During my university career I chose to immerse myself in the abstract studies of computer science and I applied all my energy to becoming fascinated by the algorithms and IT tools that digitize and process sound, and while this fascination increased, while still graduating I began a career path as a smartphone repair technician at SOSPhone Catania. This gives me the opportunity to discover the world of work more closely, always stimulating me with new challenges that have made me appreciate co-working more and more, clear communication, the power of thinking outside the box in real life and no longer only didactically. Since 2020 I have been getting closer and closer to the world of mobile app developments, starting from implementing apps capable of providing useful digital solutions to small problems in my work and hobby world. Since then, the front end developer is the figure I've been aspiring to.
-</div>  
-  
+#### <div align="center"> Creative Tech Enthusiast with a Passion for Music and Front-End Development
+
+Problem-solver with a knack for digital audio, combining a background in electronics and computer science.
+Building personal mobile apps since 2020, aspiring to become a front-end developer.
+
+Passion for technology and music
+Desire to solve real-world problems
+Enjoyment of learning and continuous improvement
+</div>
 
 - 🔭 I’m currently working on [Vidoser](https://vidoser.com/it/)  
-  
+- 🌱 I’m currently spent my free time on my side project [VocalTrainer](https://github.com/grnsmn/VocalTrainer)
+
 
 <br/>  
 
