@@ -1,22 +1,7 @@
-## <div align="center"> Hi there, i'm [Simone Guarnuccio](https://simoneguarnuccio.vercel.app/) 👋 </div>  
-
-<!--
-**grnsmn/grnsmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## <div align="center"> Hi there, i'm [Simone Guarnuccio](https://simoneguarnuccio.vercel.app/) 👋 </div>  ****
 
 ### <div align="center"> Full-time front-end developer 👨‍💻 working in [CreationDose](https://github.com/CreationDose) 🚀</div>  
-#### <div align="center"> Creative Tech Enthusiast with a Passion for Music and Front-End Development
+#### <div align="center"> Creative Tech **Enthusiast** with a Passion for Music and Front-End Development
 
 Problem-solver with a knack for digital audio, combining a background in electronics and computer science.
 Building personal mobile apps since 2020, aspiring to become a front-end developer.
@@ -39,10 +24,18 @@ Enjoyment of learning and continuous improvement
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.reactnative.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" alt="ReactNative" height="50" />  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.expo.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="Expo" height="50" /></a>  
+</div>
+
+
+### Design System
+<div align="center">  
+<a href="https://nativebase.com/" target="_blank"><img style="margin: 10px" src="https://nativebase.io/img/nativebase-logo-dark.svg" alt="**NativeBase**" height="40" />  
+<a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="https://gluestack.io/_next/image?url=%2Ficon%2Flogo%2Fgluestack%2Fdark-mode.svg&w=384&q=75" alt="**NativeBase**" height="30" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -51,7 +44,9 @@ Enjoyment of learning and continuous improvement
 
 ### Backend  
 <div align="center">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/v158caafe57d4670a8abac19430cb93c14f6b6846e8f3012a57383593e392bfd9/firebase/images/lockup.svg" alt="Firebase" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/ad075747bbb6155d876f39e365c0281b22c68bb17dc4289e59790fb221f8452c/68747470733a2f2f692e696d6775722e636f6d2f4a497942744b572e706e67" alt="Firebase" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line-wordmark.svg"**** alt="Firebase" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -60,8 +55,9 @@ Enjoyment of learning and continuous improvement
 
 ### DevOps  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="GitLab" height="50" /></a>
 </div>
 
 </td></tr></table>  
