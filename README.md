@@ -1,4 +1,4 @@
-## <div align="center"> Hi there, i'm [Simone Guarnuccio](https://simoneguarnuccio.vercel.app/) 👋 </div>  ****
+## <div align="center"> Hi there, i'm [Simone Guarnuccio](https://simoneguarnuccio.vercel.app/) 👋 </div>
 
 ### <div align="center"> Full-time front-end developer 👨‍💻 working in [CreationDose](https://github.com/CreationDose) 🚀</div>  
 #### <div align="center"> Creative Tech **Enthusiast** with a Passion for Music and Front-End Development
@@ -28,14 +28,14 @@ Enjoyment of learning and continuous improvement
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.expo.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="Expo" height="50" /></a>  
+<a href="https://www.expo.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="Expo" height="40" /></a>  
 </div>
 
 
 ### Design System
 <div align="center">  
 <a href="https://nativebase.com/" target="_blank"><img style="margin: 10px" src="https://nativebase.io/img/nativebase-logo-dark.svg" alt="**NativeBase**" height="40" />  
-<a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="https://gluestack.io/_next/image?url=%2Ficon%2Flogo%2Fgluestack%2Fdark-mode.svg&w=384&q=75" alt="**NativeBase**" height="30" />  
+<a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="https://gluestack.io/_next/image?url=%2Ficon%2Flogo%2Fgluestack%2Fdark-mode.svg&w=384&q=75" alt="Gluestack-ui" height="30" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -57,7 +57,7 @@ Enjoyment of learning and continuous improvement
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="GitLab" height="50" /></a>
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" height="50" /></a>
 </div>
 
 </td></tr></table>  
