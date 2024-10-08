@@ -35,7 +35,7 @@ Enjoyment of learning and continuous improvement
 ### Design System
 <div align="center">  
 <a href="https://nativebase.com/" target="_blank"><img style="margin: 10px" src="https://nativebase.io/img/nativebase-logo-dark.svg" alt="**NativeBase**" height="40" />  
-<a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="https://gluestack.io/_next/image?url=%2Ficon%2Flogo%2Fgluestack%2Fdark-mode.svg&w=384&q=75" alt="Gluestack-ui" height="30" />  
+<a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="[https://gluestack.io/_next/image?url=%2Ficon%2Flogo%2Fgluestack%2Fdark-mode.svg&w=384&q=75](https://avatars.githubusercontent.com/u/120183344?s=48&v=4)" alt="Gluestack-ui" height="30" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -45,7 +45,6 @@ Enjoyment of learning and continuous improvement
 ### Backend  
 <div align="center">  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/v158caafe57d4670a8abac19430cb93c14f6b6846e8f3012a57383593e392bfd9/firebase/images/lockup.svg" alt="Firebase" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/ad075747bbb6155d876f39e365c0281b22c68bb17dc4289e59790fb221f8452c/68747470733a2f2f692e696d6775722e636f6d2f4a497942744b572e706e67" alt="Firebase" height="50" /></a>   
 </div>
 
 </td><td valign="top" width="33%">
