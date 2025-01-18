@@ -23,24 +23,26 @@ Enjoyment of learning and continuous improvement
 
 
 ### Frontend  
-<div align="center">  
+<div align="center" >  
 <a href="https://www.reactnative.com/" target="_blank">
     <img style="margin: 10px" src="./react-native-1.svg" alt="ReactNative" height="50" />
+</a>  
+<a href="https://www.expo.dev" target="_blank">
+    <img style="margin: 10px" src="./expo.svg" alt="ReactNative" height="60" />
 </a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.expo.dev" target="_blank">
-    <img style="margin: 10px" src="./expo.svg" alt="ReactNative" height="60" />
-</a>  
 </div>
 
 
 ### Design System
 <div align="center" style="display: flex; justify-content: space-around;">
 
-<a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/120183344?s=48&v=4" alt="Gluestack-ui" height="30" />  
-<a href="https://nativebase.com/" target="_blank"><img style="margin: 10px" src="https://nativebase.io/img/nativebase-logo-dark.svg" alt="**NativeBase**" height="40" />  
+<a href="https://nativebase.com/" target="_blank"><img style="margin: 10px" src="https://nativebase.io/img/nativebase-logo-dark.svg" alt="**NativeBase**" height="40" />
+</a>
+<a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/120183344?s=48&v=4" alt="Gluestack-ui" height="30" />
+</a>
 </div>
 
 </td><td valign="top" width="33%">
