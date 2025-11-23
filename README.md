@@ -1,6 +1,7 @@
 ## <div align="center"> Hi there, i'm [Simone Guarnuccio](https://simoneguarnuccio.vercel.app/) 👋 </div>
 
-### <div align="center"> Full-time front-end developer 👨‍💻 working in [CreationDose](https://github.com/CreationDose) 🚀</div>  
+### <div align="center"> Full-time front-end developer 👨‍💻 working in [CreationDose](https://github.com/CreationDose) 🚀</div>
+
 #### <div align="center"> Creative Tech **Enthusiast** with a Passion for Music and Front-End Development
 
 Problem-solver with a knack for digital audio, combining a background in electronics and computer science.
@@ -9,74 +10,64 @@ Building personal mobile apps since 2020, aspiring to become a front-end develop
 Passion for technology and music
 Desire to solve real-world problems
 Enjoyment of learning and continuous improvement
+
 </div>
 
-- 🔭 I’m currently working on [Vidoser](https://vidoser.com/it/)  
+- 🔭 I’m currently working on [Vidoser](https://vidoser.com/it/)
 - 🌱 I’m currently spent my free time on my side project [VocalTrainer](https://github.com/grnsmn/VocalTrainer)
 
+<br/>
 
-<br/>  
+## My Skill Set
 
-
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-### Frontend  
 <div align="center" >  
-<a href="https://www.reactnative.com/" target="_blank">
-    <img style="margin: 10px" src="./react-native-1.svg" alt="ReactNative" height="50" />
-</a>  
-<a href="https://www.expo.dev" target="_blank">
-    <img style="margin: 10px" src="./expo.svg" alt="ReactNative" height="60" />
-</a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </div>
-
 
 ### Design System
+
 <div align="center" style="display: flex; justify-content: space-around;">
-
-<a href="https://nativebase.com/" target="_blank"><img style="margin: 10px" src="https://nativebase.io/img/nativebase-logo-dark.svg" alt="**NativeBase**" height="40" />
-</a>
-<a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/120183344?s=48&v=4" alt="Gluestack-ui" height="30" />
-</a>
+    <a href="https://nativebase.com/" target="_blank"><img style="margin: 10px" src="https://nativebase.io/img/nativebase-logo-dark.svg" alt="**NativeBase**" height="30" /></a>
+    <a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/120183344?s=48&v=4" alt="Gluestack-ui" height="30" /></a>
 </div>
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/v158caafe57d4670a8abac19430cb93c14f6b6846e8f3012a57383593e392bfd9/firebase/images/lockup.svg" alt="Firebase" height="50" /></a>  
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </div>
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" height="50" /></a>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/> 
+<br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnsmn&hide_border=true&layout=compact" align="center" /></div>  
+## Github Stats
 
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnsmn&hide_border=true&layout=compact" align="center" /></div>
 
-  
+<br/>
 
-<br/>  
+<br/>
 
 <div align="center">
             <a href="https://paypal.me/simoneguarnuccio@gmail.com" target="_blank" style="display: inline-block;">
@@ -87,10 +78,8 @@ Enjoyment of learning and continuous improvement
             </a></div>
 <br />
 
+## Connect with me
 
-
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/grnsmn" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -98,7 +87,6 @@ Enjoyment of learning and continuous improvement
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/simone-guarnuccio-7779a4166/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
