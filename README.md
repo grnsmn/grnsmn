@@ -35,8 +35,7 @@ Enjoyment of learning and continuous improvement
 ### Design System
 
 <div align="center" style="display: flex; justify-content: space-around;">
-    <a href="https://nativebase.com/" target="_blank"><img style="margin: 10px" src="https://nativebase.io/img/nativebase-logo-dark.svg" alt="**NativeBase**" height="30" /></a>
-    <a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/120183344?s=48&v=4" alt="Gluestack-ui" height="30" /></a>
+<a href="https://gluestack.io/" target="_blank"><img style="margin: 10px" src="./gluestack_logo_dark.svg" alt="Gluestack-ui" height="30" /></a>
 </div>
 
 </td><td valign="top" width="33%">
