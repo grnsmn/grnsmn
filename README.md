@@ -60,7 +60,7 @@ Enjoyment of learning and continuous improvement
 
 <br/>
 
-## Github Stats
+<!-- ## Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=grnsmn&show_icons=true&theme=radical&hide_border=true" width="400" />
@@ -75,11 +75,11 @@ Enjoyment of learning and continuous improvement
 <div align="center">
             <a href="https://paypal.me/simoneguarnuccio@gmail.com" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"
                     align="center"
                 />
             </a></div>
-<br />
+<br /> -->
 
 ## Connect with me
 
