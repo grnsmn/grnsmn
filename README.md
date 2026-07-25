@@ -13,8 +13,9 @@ Enjoyment of learning and continuous improvement
 
 </div>
 
-- 🔭 I’m currently working on [Vidoser](https://vidoser.com/it/)
-- 🌱 I’m currently spent my free time on my side project [VocalTrainer](https://github.com/grnsmn/VocalTrainer)
+- 🔭 I’m currently working on [Vidoser App](https://vidoser.com/it/) and [Vidoser Platform](https://platform.vidoser.app)
+- 🌱 I’m spent my free time on my side project [VocalTrainer](https://github.com/grnsmn/VocalTrainer) 
+- 🏓 I've created for a local ping pong community players a PWA for ranking [RankPong](https://rankpong.netlify.app/)
 
 <br/>
 
