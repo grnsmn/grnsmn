@@ -2,7 +2,7 @@
 
 # Hi, I'm Simone Guarnuccio 👋
 
-### Front-end developer · React Native & Next.js · digital audio nerd 🎧
+### Front-end developer · React Native & Next.js · music lover 🎧
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38B2AC&center=true&vCenter=true&width=520&lines=Building+mobile+apps+since+2020;Full-time+at+CreationDose;Electronics+%2B+Computer+Science+background;Turning+sound+and+code+into+products)](https://simoneguarnuccio.vercel.app/)
 
@@ -16,8 +16,8 @@
 
 ## 🧭 About me
 
-I'm a front-end developer with a background in **electronics and computer science** and a deep passion for **music and digital audio**.
-I build products that solve real problems, and I keep learning along the way.
+I'm a front-end developer with a background in **electronics and computer science**.
+I'm a music enthusiast, and music is where many of my project ideas come from. I build products that solve real problems, and I keep learning along the way.
 
 - 💼 Full-time front-end developer at [CreationDose](https://github.com/CreationDose)
 - 🔭 Currently working on [Vidoser App](https://vidoser.com/it/per-creator/app) and [Vidoser Platform](https://platform.vidoser.app)
@@ -74,15 +74,6 @@ PWA that tracks player rankings for a local ping pong community.
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=grnsmn&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnsmn&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
-
-</div>
 
 ## 🤝 Let's connect
 
