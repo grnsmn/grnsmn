@@ -55,6 +55,23 @@ PWA that tracks player rankings for a local ping pong community.
 </tr>
 </table>
 
+## 🧪 Experiments
+
+<table>
+<tr>
+<td valign="top">
+
+### 🗺️ Code Quest · Prototype
+Treasure hunt app built for **DevFest 2025 in Catania**, the tech event by [GDG Catania](https://gdg.community.dev/gdg-catania/). Organizers set up the hunt, players register and answer a series of questions to complete it, with QR code scanning along the way.
+
+`React Native` · `Expo` · `Firebase` · `i18next` · `Lottie`
+
+[Repository](https://github.com/grnsmn/code-quest-treasure-hunt)
+
+</td>
+</tr>
+</table>
+
 ## 🛠️ Tech stack
 
 **Frontend**&nbsp;
