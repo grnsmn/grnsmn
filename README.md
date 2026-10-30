@@ -91,13 +91,3 @@ Treasure hunt app built for **DevFest 2025 in Catania**, the tech event by [GDG 
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-
-## 🤝 Let's connect
-
-<div align="center">
-
-<a href="https://github.com/grnsmn"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/simone-guarnuccio-7779a4166/"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://simoneguarnuccio.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a>
-
-</div>
