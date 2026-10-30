@@ -47,7 +47,7 @@ Side project at the crossroads of music and code.
 <td width="33%" valign="top">
 
 ### 🏓 RankPong
-PWA that tracks player rankings for a local ping pong community.
+PWA that tracks player rankings, born from the needs of a local ping pong community, which has its own site: [SkySpin Hub](https://skyspin-hub.netlify.app/).
 
 [Live demo](https://rankpong.netlify.app/)
 
